@@ -8,6 +8,7 @@
 
 Este é um projeto com um design bem simples, tem como finalidade apresentar um site ficticio de barbearia, contendo na pagina inicial os links de navegação, logo da barbearia e redes sociais, as seguintes paginas tem informações sobre a historia da barbearia, serviços e preços, galeria imagens dos clientes, localização e contatos.
 
+## link: https://barbearia-responsivo.vercel.app/
 
 ## pagina inicial
 conteudo:
